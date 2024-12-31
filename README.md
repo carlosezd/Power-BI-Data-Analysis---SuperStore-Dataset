@@ -2,6 +2,9 @@
 SuperStore The "Superstore Sales" dataset is a comprehensive and versatile collection of data that provides valuable insights into sales, customer behavior, and product performance.  
 Fictional Problem: ***"The Managers of Super Store want to know if their sales strategy is yielding positive results. Their main sales strategy is applying discounts to certain products and sell off products in specific seasons. They want to determine if they should continue with this approach."***
 ___
+### Source
+[Superstore Sales 2011 to 2014 - Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
+___
 About the Dataset and preliminary data exploration:
 - There are a total of 9,994 records.
 
